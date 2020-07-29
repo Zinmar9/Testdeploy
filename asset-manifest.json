@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/github.io/Testdeploy/static/css/main.5f361e03.chunk.css",
-    "main.js": "/github.io/Testdeploy/static/js/main.95a5c009.chunk.js",
-    "main.js.map": "/github.io/Testdeploy/static/js/main.95a5c009.chunk.js.map",
-    "runtime-main.js": "/github.io/Testdeploy/static/js/runtime-main.54b2e9f1.js",
-    "runtime-main.js.map": "/github.io/Testdeploy/static/js/runtime-main.54b2e9f1.js.map",
-    "static/js/2.763b34e5.chunk.js": "/github.io/Testdeploy/static/js/2.763b34e5.chunk.js",
-    "static/js/2.763b34e5.chunk.js.map": "/github.io/Testdeploy/static/js/2.763b34e5.chunk.js.map",
-    "index.html": "/github.io/Testdeploy/index.html",
-    "precache-manifest.2e1ce0d7abec748513cee45275b68316.js": "/github.io/Testdeploy/precache-manifest.2e1ce0d7abec748513cee45275b68316.js",
-    "service-worker.js": "/github.io/Testdeploy/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/github.io/Testdeploy/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.763b34e5.chunk.js.LICENSE.txt": "/github.io/Testdeploy/static/js/2.763b34e5.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/github.io/Testdeploy/static/media/logo.5d5d9eef.svg"
+    "main.css": "/Testdeploy/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Testdeploy/static/js/main.bc58b652.chunk.js",
+    "main.js.map": "/Testdeploy/static/js/main.bc58b652.chunk.js.map",
+    "runtime-main.js": "/Testdeploy/static/js/runtime-main.3ff5968d.js",
+    "runtime-main.js.map": "/Testdeploy/static/js/runtime-main.3ff5968d.js.map",
+    "static/js/2.763b34e5.chunk.js": "/Testdeploy/static/js/2.763b34e5.chunk.js",
+    "static/js/2.763b34e5.chunk.js.map": "/Testdeploy/static/js/2.763b34e5.chunk.js.map",
+    "index.html": "/Testdeploy/index.html",
+    "precache-manifest.25e7f326c352824ba6e2904df13869f6.js": "/Testdeploy/precache-manifest.25e7f326c352824ba6e2904df13869f6.js",
+    "service-worker.js": "/Testdeploy/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/Testdeploy/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.763b34e5.chunk.js.LICENSE.txt": "/Testdeploy/static/js/2.763b34e5.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Testdeploy/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.54b2e9f1.js",
+    "static/js/runtime-main.3ff5968d.js",
     "static/js/2.763b34e5.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.95a5c009.chunk.js"
+    "static/js/main.bc58b652.chunk.js"
   ]
 }
